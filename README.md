@@ -1,2 +1,2 @@
 # PNLP
-恆逸外訓 NLP python notebook 程式檔
+恆逸 NLP 外訓課程: python notebook 程式檔
